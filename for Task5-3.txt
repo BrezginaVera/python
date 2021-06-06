@@ -1,0 +1,10 @@
+Ivanov  15715
+Petrov  25655
+Sidorov  60702
+Zaharov  19896
+Denisov  80506
+Vasiliev  55105
+Domracheva 98586
+Anikanov 47526
+Tihonov 12546
+Shishkin 16359
