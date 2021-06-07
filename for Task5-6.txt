@@ -1,0 +1,5 @@
+Informatics: 100(l) 50(pr) 20(lab)
+Physics: 30(l) - 10(lab)
+Physical education: - 30(pr) -
+History: 50(l) 10(pr) -
+Chemistry: 100(l) 50(pr) 50(lab)
